@@ -1,4 +1,4 @@
-# Alkaline - A Basic Pelican Tailwind Theme
+# Alkaline - A Basic Pelican Theme Made with Tailwind
 
 * [Live Preview](https://elliothutchinson.com)
 
@@ -7,7 +7,7 @@
 * Clone and add to Pelican project e.g. `<base_dir>/theme/alkaline`
 * Set theme setting `THEME = "theme/alkaline"`
 
-## Alkaline theme settings
+## Alkaline Theme Settings
 ```
 ALK_PROFILE_IMG_URL = "images/me.jpg"
 ALK_FOOTER_TEXT = "© 2016 - 2024 Elliot Hutchinson"
